@@ -1,1 +1,0 @@
-<iframe src="https://docs.google.com/gview?url=https://github.com/chrisreed12/resume/raw/master/software%20developer.doc&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
